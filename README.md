@@ -2,7 +2,7 @@
 # RSA-Factoring-Challenge
 
 <!-- --------------------------------
-./factors <ifle>
+./factors <file>
 --------------------------------
-./rsa <ifle> -->
+./rsa <file> -->
 
